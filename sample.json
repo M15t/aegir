@@ -1,0 +1,96 @@
+{
+  "product_info": {
+    "name_vn": "Gạo Lứt",
+    "name_en": "Rice, brown or hulled",
+    "serving_size": "100 grams edible portion",
+    "code": "1005",
+    "food_waste": "0.0%"
+  },
+  "nutritional_composition": {
+    "water": { "unit": "g", "value": 12.4 },
+    "energy_kcal": { "unit": "kcal", "value": 345 },
+    "energy_kj": { "unit": "kJ", "value": 1443 },
+    "protein": { "unit": "g", "value": 7.5 },
+    "fat": { "unit": "g", "value": 2.7 },
+    "carbohydrate": { "unit": "g", "value": 72.8 },
+    "fiber": { "unit": "g", "value": 3.4 },
+    "ash": { "unit": "g", "value": 1.3 }
+  },
+  "sugar_content": {
+    "total_sugar": { "unit": "g", "value": null },
+    "galactose": { "unit": "g", "value": null },
+    "maltose": { "unit": "g", "value": null },
+    "lactose": { "unit": "g", "value": null },
+    "fructose": { "unit": "g", "value": null },
+    "glucose": { "unit": "g", "value": null },
+    "sucrose": { "unit": "g", "value": null }
+  },
+  "minerals": {
+    "calcium": { "unit": "mg", "value": 16 },
+    "iron": { "unit": "mg", "value": 2.8 },
+    "magnesium": { "unit": "mg", "value": 52 },
+    "manganese": { "unit": "mg", "value": 2 },
+    "phosphorus": { "unit": "mg", "value": 246 },
+    "potassium": { "unit": "mg", "value": 202 },
+    "sodium": { "unit": "mg", "value": 5 },
+    "zinc": { "unit": "mg", "value": 1.9 },
+    "copper": { "unit": "µg", "value": 360 },
+    "selenium": { "unit": "µg", "value": 38.8 }
+  },
+  "fatty_acids": {
+    "total_saturated_fatty_acid": { "unit": "g", "value": 0.54 },
+    "palmitic_c16_0": { "unit": "g", "value": 0.46 },
+    "margaric_c17_0": { "unit": "g", "value": 0.0 },
+    "stearic_c18_0": { "unit": "g", "value": 0.05 },
+    "arachidic_c20_0": { "unit": "g", "value": 0.0 },
+    "behenic_c22_0": { "unit": "g", "value": 0.0 },
+    "lignoceric_c24_0": { "unit": "g", "value": 0.0 },
+    "total_monounsaturated_fatty_acid": { "unit": "g", "value": 0.97 },
+    "myristoleic_c14_1": { "unit": "g", "value": 0.0 },
+    "palmitoleic_c16_1": { "unit": "g", "value": 0.01 },
+    "oleic_c18_1": { "unit": "g", "value": 0.96 },
+    "total_polyunsaturated_fatty_acid": { "unit": "g", "value": 1.02 },
+    "linoleic_c18_2_n6": { "unit": "g", "value": 0.92 },
+    "linolenic_c18_3_n3": { "unit": "g", "value": 0.04 },
+    "arachidonic_c20_4": { "unit": "g", "value": 0.0 },
+    "eicosapentaenoic_c20_5_n3": { "unit": "g", "value": 0.0 },
+    "docosahexaenoic_c22_6_n3": { "unit": "g", "value": 0.0 },
+    "total_trans_fatty_acid": { "unit": "g", "value": null }
+  },
+  "cholesterol_phytosterol": {
+    "cholesterol": { "unit": "mg", "value": 0 },
+    "phytosterol": { "unit": "mg", "value": null }
+  },
+  "vitamins": {
+    "vitamin_c": { "unit": "mg", "value": 0 },
+    "vitamin_b1": { "unit": "mg", "value": 0.34 },
+    "vitamin_b2": { "unit": "mg", "value": 0.07 },
+    "vitamin_pp": { "unit": "mg", "value": 5.0 },
+    "vitamin_b5": { "unit": "mg", "value": 1.5 },
+    "vitamin_b6": { "unit": "mg", "value": 0.62 },
+    "folate": { "unit": "µg", "value": 20 },
+    "vitamin_a": { "unit": "µg", "value": 0 },
+    "vitamin_e": { "unit": "mg", "value": 0 },
+    "vitamin_k": { "unit": "µg", "value": null }
+  },
+  "amino_acids": {
+    "lysine": { "unit": "mg", "value": 286 },
+    "methionine": { "unit": "mg", "value": 169 },
+    "tryptophan": { "unit": "mg", "value": 96 },
+    "phenylalanine": { "unit": "mg", "value": 387 },
+    "threonine": { "unit": "mg", "value": 275 },
+    "valine": { "unit": "mg", "value": 440 },
+    "leucine": { "unit": "mg", "value": 620 },
+    "isoleucine": { "unit": "mg", "value": 318 },
+    "arginine": { "unit": "mg", "value": 599 },
+    "histidine": { "unit": "mg", "value": 190 },
+    "cystine": { "unit": "mg", "value": 91 },
+    "tyrosine": { "unit": "mg", "value": 281 },
+    "alanine": { "unit": "mg", "value": 437 },
+    "aspartic_acid": { "unit": "mg", "value": 702 },
+    "glutamic_acid": { "unit": "mg", "value": 1528 },
+    "glycine": { "unit": "mg", "value": 369 },
+    "proline": { "unit": "mg", "value": 352 },
+    "serine": { "unit": "mg", "value": 388 }
+  }
+}
